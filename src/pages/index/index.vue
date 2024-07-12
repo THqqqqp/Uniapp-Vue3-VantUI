@@ -3,7 +3,8 @@
 </script>
 
 <template>
-  <div></div>
+  <div>123</div>
+  <router-view/>
 </template>
 
 <style lang="scss" scoped>
