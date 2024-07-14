@@ -3,9 +3,9 @@
 </script>
 
 <template>
-  <router-view/>
+  <div>ComponentOne</div>
 </template>
 
-<style lang="scss" scoped>
+<style scoped lang="scss">
 
 </style>
