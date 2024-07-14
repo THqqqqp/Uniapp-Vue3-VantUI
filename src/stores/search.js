@@ -1,4 +1,4 @@
-import {defineStore} from 'pinia'
+import { defineStore } from 'pinia'
 
 // 为一个简单的pinia使用示例
 export const useCounterStore = defineStore('counter', {
